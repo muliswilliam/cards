@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**Create, shuffle and deal a deck of cards**
 
 ## Installation
 
